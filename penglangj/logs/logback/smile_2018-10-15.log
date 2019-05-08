@@ -1,0 +1,8 @@
+2018-10-15 17:20:06 main INFO Starting PenglangApplication on LAPTOP-5L36Q17F with PID 3328 (E:\IdeaProjects\penglang\target\classes started by PengLang in E:\IdeaProjects\penglang)
+2018-10-15 17:20:06 main DEBUG Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2018-10-15 17:20:06 main INFO The following profiles are active: dev
+2018-10-15 17:20:11 main INFO Started PenglangApplication in 4.997 seconds (JVM running for 6.185)
+2018-10-15 17:20:19 http-nio-8080-exec-1 INFO ===============进入登录页========================
+2018-10-15 17:20:45 http-nio-8080-exec-4 DEBUG ==>  Preparing: select id, username, password, age ,email from userpl where email = ? and password = ? 
+2018-10-15 17:20:45 http-nio-8080-exec-4 DEBUG ==> Parameters: 961324049@qq.com(String), 212121(String)
+2018-10-15 17:20:45 http-nio-8080-exec-4 DEBUG <==      Total: 1
